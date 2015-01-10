@@ -1,0 +1,84 @@
+ccc: stallChecker
+ccc: RequestRecord
+ccc: initAutomateSSOWorker
+ccc: ResponseRecord
+ccc: processBuffer
+ccc: initIFramePressLoginButtonWorker
+ccc: initIFrameRegistrationWorker
+ccc: initIFramePressLoginButtonWorker
+ccc: initIFrameRegistrationWorker
+ccc: initIFramePressLoginButtonWorker
+ccc: initIFrameRegistrationWorker
+ccc: initIFramePressLoginButtonWorker
+ccc: initIFrameRegistrationWorker
+ccc: initPressLoginButton
+ccc: initTestSuiteWorker
+ccc: initRegistrationWorker
+ccc: processLoaded
+Phase 0 - done loading anonymously the first time.
+
+ccc: initIFramePressLoginButtonWorker
+ccc: initIFrameRegistrationWorker
+ccc: initIFramePressLoginButtonWorker
+ccc: initIFrameRegistrationWorker
+ccc: initIFramePressLoginButtonWorker
+ccc: initIFrameRegistrationWorker
+ccc: checkRedirectionAndAdjust
+ccc: deleteCache
+ccc: RequestRecord
+ccc: ResponseRecord
+ccc: processBuffer
+ccc: testSuitePhase1
+Phase 1 - recorded anonymous header data.
+
+ccc: closeAllOtherTabs
+ccc: trafficRecord
+ccc: initAutomateSSOWorker
+ccc: initIFramePressLoginButtonWorker
+ccc: initIFrameRegistrationWorker
+ccc: initIFramePressLoginButtonWorker
+ccc: initIFrameRegistrationWorker
+ccc: initIFramePressLoginButtonWorker
+ccc: initIFrameRegistrationWorker
+ccc: initIFramePressLoginButtonWorker
+ccc: initIFrameRegistrationWorker
+ccc: initPressLoginButton
+ccc: initTestSuiteWorker
+ccc: initRegistrationWorker
+ccc: processLoaded
+ccc: initIFramePressLoginButtonWorker
+ccc: initIFrameRegistrationWorker
+ccc: initIFramePressLoginButtonWorker
+ccc: initIFrameRegistrationWorker
+ccc: initIFramePressLoginButtonWorker
+ccc: initIFrameRegistrationWorker
+ccc: collectCandidatesAndClickNext
+ccc: clickLoginButton
+clicking on 1th ranked login element in the pool (for the 1th click:
+XPATH: //A[@id='hp_login_bt']
+outerHTML: <a href="javascript:void(0);" id="hp_login_bt" onc
+ccc: stallChecker
+ccc: initIFramePressLoginButtonWorker
+ccc: initIFrameRegistrationWorker
+ccc: collectCandidatesAndClickNext
+ccc: clickLoginButton
+clicking on 1th ranked login element in the pool (for the 2th click:
+XPATH: //DIV[@id='auth_providers']/A[2]
+outerHTML: <a href="javascript:void(0);" class="twitter conne
+ccc: stallChecker
+ccc: RequestRecord
+ccc: ResponseRecord
+ccc: processBuffer
+ccc: testSuitePhase2
+Phase 2 - https://api.twitter.com/oauth/ request header and url captured for session A.
+
+ccc: testSuitePhase2: capturingPhase updated to: 3
+ccc: initAutomateSSOWorker
+ccc: initPressLoginButton
+ccc: initTestSuiteWorker
+ccc: initRegistrationWorker
+ccc: initAutomateSSOWorker
+ccc: initPressLoginButton
+ccc: initTestSuiteWorker
+ccc: initRegistrationWorker
+ccc: collectCandidatesAndClickNext
