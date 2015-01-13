@@ -11,12 +11,14 @@ modify addon-SDK-x.xx/python-lib/cuddlefish/prefs.py, find line 'javascript.opti
 
 and set it to False.
 
+Set devtools.chrome.enabled: true devtools.debugger.remote-enabled: true to enable debugging.
+
 This application only works for Firefox's SDK version 1.16. You may experience unexpected problems if using a newer or older version of Firefox.
 
-Set devtools.chrome.enabled: true devtools.debugger.remote-enabled: true to enable debugging.
+
 
 -----------------------------------------------------
 
-Credits: Yuchen Zhou, a graduate student at UVA, has guided me through this project. Most of my code and ideas are modeled after his Facebook SSO. A user-friendly application of his application can be found http://ssoscan.org/
+Credits: Yuchen Zhou, a graduate student at UVA, has guided me through this project. Most of my code and ideas are modeled after his Facebook SSO. A user-friendly application of his project can be found http://ssoscan.org/
 
 For more information about him or his work, visit: http://chromium.cs.virginia.edu/ or https://github.com/Treeeater/
